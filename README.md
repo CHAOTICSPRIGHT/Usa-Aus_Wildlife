@@ -1,4 +1,4 @@
-# clasification of Usa and Australian wildlife
+# Classification of USA and Australian wildlife
 My project is about the diffrences, the changes and unique perks of Australia wildlife and The USA wild life. And help determine where an animal is from. 
 
 ## The Algorithm 
