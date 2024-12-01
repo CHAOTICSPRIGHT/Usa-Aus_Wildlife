@@ -1,9 +1,13 @@
 # Classification of USA and Australian wildlife
 My project is about the diffrences, the changes and unique perks of Australia wildlife and The USA wild life. And help determine where an animal is from. 
 Link to retraimed model https://drive.google.com/file/d/1R5yIF3imvZHd8PXX8nReErfYjKad7TIi/view?usp=sharing
+
 Algorithm
+
 We have fine tuned the ResNet-18 model to be able to classify between Australian or American wildlife. The model was provided twenty training images under every category. The validation set consisted 6 images and so did the test set. 
+
 ![0](https://github.com/CHAOTICSPRIGHT/Usa-Aus_Wildlife/blob/main/testUsa.jpg?raw=true)
+
 ## Steps to Run the Project 
 1. Have acces to resnet18.onnx and labels.txt on jetson nano
 2. Clone the jetson-inference project from GitHub using "git clone --recursive https://github.com/dusty-nv/jetson-inference" and change directories into it
